@@ -95,9 +95,9 @@ export const SOCIALS = [
     link: "https://instagram.com/sundar-poondla",
   },
   {
-    name: "Facebook",
-    icon: FaFacebook,
-    link: "https://facebook.com",
+    name: "linkedin",
+    icon: RxLinkedinLogo,
+    link: "https://www.linkedin.com/in/roopa-sundar",
   },
   {
     name: "Twitter",

@@ -259,13 +259,6 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Medicine Reminder App with Notifications",
-    description:
-      "👋 Hey there! Are you struggling to keep track of your medication schedule? 🤔 No worries! I can help you build a medicine reminder app with notifications using Flutter! 🚀 Stay on top of your health with ease! 💊💪.",
-    image: "/projects/medi.png",
-    link: "https://github.com/Roopa-Sundar/Medicine-Remainder-app-with-Notifications",
-  },
-  {
     title: "Toursim Website",
     description:
       "Discover the world with us, and let your adventures begin. Whether you are seeking thrilling adventures, serene retreats, or cultural immersions, our website is designed to inspire and inform your travels. Dive into our comprehensive travel guides, which offer insider tips, must-see attractions, and hidden gems across the globe.",
@@ -288,12 +281,12 @@ export const FOOTER_DATA = [
       {
         name: "YouTube",
         icon: FaYoutube,
-        link: "https://youtube.com",
+        link: "https://www.youtube.com/@introvert2166",
       },
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com",
+        link: "https://github.com/Roopa-Sundar",
       },
       {
         name: "Discord",
@@ -308,17 +301,17 @@ export const FOOTER_DATA = [
       {
         name: "Instagram",
         icon: RxInstagramLogo,
-        link: "https://instagram.com",
+        link: "https://www.instagram.com/sundar_poondla/?igsh=MW9iaHljMGRlbXphNw%3D%3D&utm_source=qr",
       },
       {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://twitter.com",
+        link: "https://x.com/RoopSundar444",
       },
       {
         name: "Linkedin",
         icon: RxLinkedinLogo,
-        link: "https://linkedin.com",
+        link: "https://www.linkedin.com/in/roopa-sundar",
       },
     ],
   },

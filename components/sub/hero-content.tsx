@@ -37,7 +37,7 @@ export const HeroContent = () => {
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               the best
             </span>{" "}
-            3D Wonders.
+            frontend websites.
           </span>
         </motion.div>
 

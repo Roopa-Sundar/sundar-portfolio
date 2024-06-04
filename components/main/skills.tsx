@@ -31,7 +31,7 @@ export const Skills = () => {
         ))}
       </div>
 
-      <div className="flex flex-row justify-around flex-wrap mt-4 gap-5 items-center">
+      {/* <div className="flex flex-row justify-around flex-wrap mt-4 gap-5 items-center">
         {FRONTEND_SKILL.map((skill, i) => (
           <SkillDataProvider
             key={skill.skill_name}
@@ -42,7 +42,7 @@ export const Skills = () => {
             index={i}
           />
         ))}
-      </div>
+      </div> */}
       <div className="flex flex-row justify-around flex-wrap mt-4 gap-5 items-center">
         {BACKEND_SKILL.map((skill, i) => (
           <SkillDataProvider

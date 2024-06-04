@@ -67,7 +67,7 @@ export const HeroContent = () => {
           height={650}
           width={650}
           draggable={false}
-          className="select-none"
+          className="select-none hidden md:flex"
         />
       </motion.div>
     </motion.div>

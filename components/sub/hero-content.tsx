@@ -30,22 +30,22 @@ export const HeroContent = () => {
 
         <motion.div
           variants={slideInFromLeft(0.5)}
-          className="flex flex-col gap-6 mt-6 text-6xl  text-bold text-white max-w-[600px] w-auto h-auto"
+          className="flex flex-col gap-6 mt-6 text-3xl md:text-4xl  text-bold text-white max-w-[600px] w-auto h-auto"
         >
           <span>
             I Develop{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              the best
+              the Best
             </span>{" "}
-            Front-end websites.
+            Front-end Websites .
           </span>
         </motion.div>
 
         <motion.p
           variants={slideInFromLeft(0.8)}
-          className="text-lg text-gray-400 my-5 max-w-[600px]"
+          className="text-xs md:text-base text-gray-300 my-5 max-w-[600px]"
         >
-          I&apos;m a Full Stack Develoer with experience in Web, Mobile, and
+          I&apos;m a Full Stack Developer with experience in Web, Mobile, and
           Software Applications.
         </motion.p>
 

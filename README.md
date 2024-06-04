@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, I combined the power of Nextjs, Threejs, Tailwind CSS, and Framer Motion to create an engaging and interactive website. This repository will help you learn how to leverage these technologies to create stunning 3D web experiences.
+In this project, I combined the power of Nextjs, Threejs, Tailwind CSS, and Framer Motion to create an engaging and interactive website. This repository will help you learn how to leverage these technologies to create stunning web experiences.
 
 ## Getting Started
 
